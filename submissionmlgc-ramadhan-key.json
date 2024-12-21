@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "submissionmlgc-ramadhan-445407",
+  "private_key_id": "b07dde0e626806309957aa336be9fe4b00de6e68",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvwIBADANBgkqhkiG9w0BAQEFAASCBKkwggSlAgEAAoIBAQCgPLw8d1ikSByX\nJK67gzG4kwQ8DUl/0BONsTFn+BrQM9EewSDbMcQEPCjyn8YRW8+BvId8HOb3nAgu\nAtSiD3iH32HLJWwN7+MePfpmGb9snQSHeY7qhmZyptbX4XCo0dJEuArENKZudRW4\nVFzaGCr3eGRHYBMOpiWeCTuui9vhsZiV/saemSFS1l56iBWXT0lO5Km+49y4Nao5\n1rP1OmzHZSq49G4S5U5RBYbI6tEi9fL195HKX1XDftaX92XtnX1AG9XAQ6udqlyg\njW/1acgraXVnMgUqk3f53TMY8jJoMys0DAqFZk6HuRSO8fnMmheoAyk05linoVm9\nttwxboKnAgMBAAECggEAAoatQazF+80Gj7FshG3p4Orcabqcj9nEEntFIp+hgz/A\nimIUC7CUp6vFH3y6VCK6OjrdI0KXYjbrqsIGVR8LpjoKIiLkZFyFnD/w4cmCdYq3\nfA/usK7OuvxQrcA9lO5oiLHNZaYeK5FH9uB0QvHs7NAmkI4orsCayODaDS3iQ667\n1ru+sTu/5LWYe65bFoefCj15Xm2dMePdIOprIIWJ0SnWjOfSqkzDYgPAlCFL72xR\nZL1M7u3QudvG0tk9v00hAljsrZPNRXMnroLhCqRiSwdQ30i7EZnhQuYn5kKjtjN5\nadpc43JDxcsuaI1SxKKVKQTd9dlyvc4DCK5FMbr2kQKBgQDQnudvXMR7tb9axq6T\nMyLzLZMi5oS0Db0iEnBjH6D6R+mNh7wT/IuG5jMpp/bqhY/lpWW6J4GJODea70ON\ncLs6xzGf6aWM3Ilobw0OlWhJ3vfFJ4hLlKNOTOq0wx1sl3AUDF9NZro4C7/xNLBC\nAP/c4ikE0eKUAt59wmBGbfELcQKBgQDEoNejVOIJett/xc/8VA6LRb0pNTYpaIFI\nPVEUGfI8BMBHe2EtVQ6n4U+DBvdvqpeczrmmrwdYvtuG1GuCyTs4EkRa9sBvI3mg\nkSvqOlyHKGf3izYBhoF6y9ufpDQCr3jPYeBXaUyYo0yhvwFW1x64P8ucV5kd6AMy\n3T1swW1zlwKBgQCljSQtbFmDrnO+rqIEr/TRM15quLGgTLLFIgrLrmLJml2NcaRf\n2+5BS9ZX/TFlZD4PyBQVCJqz8Me3jJ131XjOqRoJQ5mbUbs9A7tB0nCjBmxqqPdw\nuvBpB4LNlXR5IyfO0Q6j1px6M2DLIbupdS+V8mcIqyH5wNkcxS4vVbmOEQKBgQCg\nU/5Awe/lhvX/w44J04hga6cIOMlHDl2MR+ManuVzpvQZ1TKxwg9HOGKbFk0gElu5\nkp6ymTlGVamu0PoxFGBjIhH2kgjrFmQQVw8V2CymUH4lzK9mowRk2mDkVQHLxsSd\nZNOGsuev9keAA7zV0GbOGcauXocNaadiDCAP09CpVQKBgQCm04PcF1wcudHM+ygV\nqJOeIf0dbTABJXXfv/9P8zI3bB1fbvDB+UZc/YnYKF0M+iE/S4/4I5RcJkVmBkDk\nUj9EfrEGlcTYv34mmDKEsk9s9NtE+ZqLOgDtzJa5hg1iF5vtNtu0OTxsoxjNj/yV\nEuN+iGeZXeO7QjdmfHhx5ASyKw==\n-----END PRIVATE KEY-----\n",
+  "client_email": "submissionmlgc-ramadhan@submissionmlgc-ramadhan-445407.iam.gserviceaccount.com",
+  "client_id": "105923173809158251601",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/submissionmlgc-ramadhan%40submissionmlgc-ramadhan-445407.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
